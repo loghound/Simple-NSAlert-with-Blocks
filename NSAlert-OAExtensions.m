@@ -6,7 +6,8 @@
 // <http://www.omnigroup.com/developer/sourcecode/sourcelicense/>.
 
 #import "NSAlert-OAExtensions.h"
-
+#import <Foundation/NSException.h>
+#import <Foundation/NSString.h>
 
 
 
